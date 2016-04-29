@@ -10,7 +10,7 @@
 }
 
 .header{
-	padding-top: 10%;
+	padding-top: 12%;
 	color: white;
 }
 
@@ -98,4 +98,7 @@ input.btn-primary {
 	height: 50px;
 }
 
-
+.twitter_focused {
+	margin-left: 75%;
+	color: white
+}
